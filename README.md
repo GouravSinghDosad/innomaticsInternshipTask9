@@ -1,13 +1,7 @@
-# Todo_Tutorial_YouTube
+# Assignment 9 - FSD Inomatics Research Lab
 
-# In order to make the app work first install the dependencies by running the following command on your terminal
+To run : use "node app.js" command
 
-```
-npm install
-```
+SCREENSHOT:- 
 
-# Now start the server by typing the following command
-
-```
-node app.js |or| nodemon app.js
-```
+![SS](https://github.com/user-attachments/assets/7f7fc2fc-1953-40a8-8269-d6f83c1b9d18)
